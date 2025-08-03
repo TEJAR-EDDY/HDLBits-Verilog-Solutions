@@ -29,3 +29,50 @@ VERILOG-HDLBITS-SOLUTIONS/
     ├── More Verilog Features
     ├── Procedures
     └── Vectors
+ What’s Included?
+✅ 100% HDLBits problem coverage
+
+📁 Clean folder structure
+
+🧠 Conceptual and practical clarity in coding style
+
+🔍 Simulation-ready designs (ModelSim/Icarus Verilog compatible)
+
+🧪 Selected testbenches for verifying functionality
+
+🎯 Skills Demonstrated
+RTL Design using Verilog
+
+FSM modeling (Mealy/Moore)
+
+Debugging broken HDL code
+
+Procedural and structural modeling
+
+Bitwise, vector, and hierarchical design understanding
+
+Writing and analyzing waveforms for behavioral reconstruction
+
+💼 Tools Used
+Verilog HDL
+
+ModelSim, Icarus Verilog
+
+GTKWave for waveform visualization
+
+VS Code for editing
+
+Git & GitHub for version control and collaboration
+
+📈 Portfolio Value
+This project highlights my:
+
+Mastery of digital logic design principles
+
+Attention to clean, modular HDL coding
+
+Hands-on debugging and testbenching skills
+
+Commitment to structured learning
+
+It serves as a personal proof of work and practical exposure to core design concepts relevant in the VLSI and semiconductor industry.
